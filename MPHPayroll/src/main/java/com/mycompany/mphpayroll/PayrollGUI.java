@@ -7,7 +7,6 @@ package com.mycompany.mphpayroll;
 import javax.swing.*;
 import java.awt.event.*;
 import java.text.SimpleDateFormat;
-
 import java.awt.*;
 import java.io.IOException;
 import java.text.ParseException;
